@@ -1,2 +1,1 @@
-# hotel-management-system
-## Gomindz Hotel Management System
+# Gomindz Hotel Management System
